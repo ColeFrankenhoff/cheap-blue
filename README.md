@@ -1,5 +1,5 @@
 # cheap-blue
-Thanks for actually checking this out! I didn't think anyone would, so apologies if the readme is a bit short. 
+Thanks for taking the time to check this out! 
 
 The code is for a complete chess game and gui with piece sprites and mouse input
 There are three files of python code, chessboard, window, and main
