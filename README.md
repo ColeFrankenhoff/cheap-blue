@@ -1,5 +1,5 @@
 # cheap-blue
-Thanks for actually checking this out! I didn't think anyone really would, so apologies if the readme is a bit short. 
+Thanks for actually checking this out! I didn't think anyone would, so apologies if the readme is a bit short. 
 
 The code is for a complete chess game and gui with piece sprites and mouse input
 There are three files of python code, chessboard, window, and main
@@ -12,4 +12,4 @@ Extra features:
   If you attempt to make an illegal move it just doesn't work, and the square turns back to normal colors
   Gui resizes based on screen of the user
 
-This is a huge oversimplication-please take a look at the code!
+This is a huge oversimplication-the in-code documentation is much more complete
