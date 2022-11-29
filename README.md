@@ -9,7 +9,7 @@ Window draws the board onscreen, takes input from the user, and refreshes the gu
 Main is responsible for executing the code defined in window.
 
 Extra features:\
-  Square of the selected piece turns red, so you don't accidentally make a move\ 
+  Square of the selected piece turns red, so you don't accidentally make a move\
   If you attempt to make an illegal move it just doesn't work, and the square turns back to normal colors\
   Gui changes dimensions to fit the screen of the user
   
