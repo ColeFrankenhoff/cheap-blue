@@ -1,5 +1,4 @@
 # cheap-blue
-Thanks for taking the time to check this out!
 
 The code is for a complete chess game, including a gui with piece sprites and mouse input. A couple screenshots of the gui can be found in the photos folder.\
 There are three files of python code: chessboard, window, and main.
